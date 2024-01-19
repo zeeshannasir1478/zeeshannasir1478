@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshannasir1478
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html CSS and Javascript 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me through my email zeeshannasir1478@gmail.com
 
